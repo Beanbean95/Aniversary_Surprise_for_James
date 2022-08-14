@@ -1,4 +1,4 @@
-# Natural Langurage Processing on WeChat History Before and After Getting Married
+# Natural Langurage Processing Analysis on WeChat History Before and After Getting Married
 This project is prepared by myself in the format of a paper as for my husband's Paper Aniversary gift. This repository contains the following files: 
 
 * The Jupyter Notebook file: James_Surprise_NLP.ipynb, shows the source code of my statistical analysis. 
